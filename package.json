@@ -1,0 +1,22 @@
+{
+  "name": "tdnodegen-blazepose",
+  "version": "1.0.0",
+  "description": "BlazePose plugin for TouchDesigner",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarango82/TDNodeGen.git"
+  },
+  "author": "aadyarangole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aarango82/TDNodeGen/issues"
+  },
+  "homepage": "https://github.com/aarango82/TDNodeGen#readme"
+}
